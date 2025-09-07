@@ -1,21 +1,21 @@
 export const METRICS = [
     {
-        number: 25000,
-        label: "Active properties",
+        number: 200000,
+        label: "Applications auto-submitted",
         image: "/icons/metric-one.svg",
         reverse: false
     },
     {
-        number: 250,
-        suffix: "M+",
-        label: "Property value managed",
+        number: 50,
+        suffix: "K+",
+        label: "Candidates using HireHack",
         image: "/icons/metric-two.svg",
         reverse: true
     },
     {
-        number: 98,
+        number: 92,
         suffix: "%",
-        label: "Successful transactions",
+        label: "Users landing interviews",
         image: "/icons/metric-three.svg",
         reverse: false
     }

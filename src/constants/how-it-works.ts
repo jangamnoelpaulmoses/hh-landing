@@ -6,18 +6,18 @@ export interface HowItWorksItem {
 
 export const HOW_IT_WORKS: HowItWorksItem[] = [
     {
-        title: "List Your Property",
-        description: "Easily list your property with detailed information, high-quality photos, and competitive pricing in just minutes.",
+        title: "Sign Up & Set Up",
+        description: "Create your free HireHack account in minutes and set up your profile with resumes and preferences.",
         image: "/images/hiw-one.svg"
     },
     {
-        title: "Smart Management",
-        description: "Manage listings, track inquiries, and handle transactions from one central dashboard.",
+        title: "Install & Automate",
+        description: "Add the HireHack browser extension and let it auto-apply to jobs on LinkedIn, Indeed, and other platforms.",
         image: "/images/hiw-two.svg"
     },
     {
-        title: "Close Deals Faster",
-        description: "Streamline negotiations and paperwork with our automated systems and expert support for quick, hassle-free closings.",
+        title: "Ace Your Interviews",
+        description: "Get AI-powered coaching, smart answers, and real-time feedback to perform confidently in interviews.",
         image: "/images/hiw-three.svg"
     }
 ];

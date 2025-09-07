@@ -15,13 +15,13 @@ const HowItWorks = () => {
 
                 <AnimationContainer animation="fadeUp" delay={0.3}>
                     <h1 className="text-2xl md:text-4xl lg:text-5xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                        Three steps to success
+                        Three steps to land your dream job
                     </h1>
                 </AnimationContainer>
 
                 <AnimationContainer animation="fadeUp" delay={0.4}>
                     <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-lg mx-auto">
-                        Our three-step process simplifies real estate transactions and property management.
+                        HireHack simplifies your job hunt with automation and AI-powered interview prep — all in just three steps.
                     </p>
                 </AnimationContainer>
             </div>

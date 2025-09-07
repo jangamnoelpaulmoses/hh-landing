@@ -15,15 +15,16 @@ const Perks = () => {
 
                 <AnimationContainer animation="fadeUp" delay={0.3}>
                     <h2 className="text-2xl md:text-4xl lg:text-5xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                        Use our platform
+                        Supercharge Your Job Hunt
                         <br />
-                        with powerful tools
+                        with powerful HireHack tools
                     </h2>
                 </AnimationContainer>
 
                 <AnimationContainer animation="fadeUp" delay={0.4}>
                     <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-2xl mx-auto">
-                        Seamlessly integrated tools for effortless property management.
+                        From auto-applying to jobs on LinkedIn & Indeed to AI-powered interview prep —
+                        HireHack gives you the ultimate edge in landing your next opportunity.
                     </p>
                 </AnimationContainer>
             </div>
@@ -33,7 +34,7 @@ const Perks = () => {
                     <AnimationContainer animation="scaleUp" delay={0.5}>
                         <Image
                             src="/images/grid-lines.svg"
-                            alt="Plus"
+                            alt="Grid background"
                             width={32}
                             height={32}
                             className="size-full"
@@ -82,4 +83,4 @@ const Perks = () => {
     );
 };
 
-export default Perks; 
+export default Perks;

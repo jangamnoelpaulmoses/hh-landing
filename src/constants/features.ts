@@ -1,25 +1,25 @@
 export const FEATURES = [
     {
-        title: "Smart property management",
-        description: "Manage multiple properties effortlessly with our AI-powered dashboard. Track rent payments and maintenance schedules.",
+        title: "One-Click Applications",
+        description: "Apply to hundreds of jobs on LinkedIn, Indeed, and other platforms with a single click using our browser extension.",
         image: "/images/f1.svg",
         size: "large"
     },
     {
-        title: "Real-time analytics",
-        description: "Track property views, leads, and revenue through real-time analytics.",
+        title: "Smart Tracking Dashboard",
+        description: "Stay organized by tracking all your applications, statuses, and responses in one central place.",
         image: "/images/f2.svg",
         size: "small"
     },
     {
-        title: "Smart transaction hub",
-        description: "Handle property transactions securely in one place, from offers to digital contracts and payments.",
+        title: "AI Resume Optimizer",
+        description: "Get instant, AI-powered suggestions to tailor your resume for each role and boost your chances of getting shortlisted.",
         image: "/images/f3.svg",
         size: "large"
     },
     {
-        title: "Instant property valuation",
-        description: "Get real-time market valuations powered by AI and big data for informed pricing decisions.",
+        title: "Interview Coaching",
+        description: "Practice with real-time AI coaching, smart answers, and feedback to ace your interviews with confidence.",
         image: "/images/f4.svg",
         size: "small"
     },

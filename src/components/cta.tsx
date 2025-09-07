@@ -10,15 +10,15 @@ import SectionBadge from "./ui/section-badge";
 const HIGHLIGHTS = [
     {
         icon: "/icons/shield.svg",
-        label: "Secure Platform"
+        label: "Secure & Private"
     },
     {
         icon: "/icons/clock.svg",
-        label: "Real-time Updates"
+        label: "Save Hours Daily"
     },
     {
         icon: "/icons/magicpen.svg",
-        label: "Smart Features"
+        label: "AI Interview Prep"
     }
 ];
 
@@ -55,13 +55,14 @@ const CTA = () => {
 
                     <AnimationContainer animation="fadeUp" delay={0.4}>
                         <h2 className="text-3xl md:text-5xl lg:text-6xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                            Ready to get started?
+                            Ready to land your dream job?
                         </h2>
                     </AnimationContainer>
 
                     <AnimationContainer animation="fadeUp" delay={0.5}>
                         <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-lg mx-auto mt-4">
-                            Sign up for a free trial and see how PropEase can help you manage your properties.
+                            Sign up for free and see how HireHack automates your job applications
+                            and prepares you to ace interviews with AI.
                         </p>
                     </AnimationContainer>
 
@@ -95,7 +96,7 @@ const CTA = () => {
                     <AnimationContainer animation="fadeUp" delay={1}>
                         <Link href="/signin">
                             <Button size="lg" className="mt-6">
-                                Start now
+                                Start Applying
                                 <ArrowRightIcon className="size-4 ml-2" />
                             </Button>
                         </Link>

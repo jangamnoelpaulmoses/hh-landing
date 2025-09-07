@@ -1,44 +1,44 @@
 export const TESTIMONIALS = [
     {
-        content: "The AI-powered valuation tool helped me price my properties accurately. Closed deals 30% faster than traditional methods.",
+        content: "HireHack helped me apply to over 150 jobs in just a few days. I landed 5 interviews within the first week!",
         author: "Emma",
-        role: "Real Estate Agent",
+        role: "Software Engineer",
         image: "/images/person-one.jpg",
         rating: 5
     },
     {
-        content: "Virtual tours and 3D viewing features saved me countless hours. Made property hunting efficient and enjoyable from anywhere.",
+        content: "The AI interview prep gave me the confidence I needed. I walked into my interviews prepared with smart answers.",
         author: "James",
-        role: "Property Buyer",
+        role: "Marketing Specialist",
         image: "/images/person-two.jpg",
         rating: 5
     },
     {
-        content: "Managing multiple properties is now seamless. The automated maintenance tracking and tenant portal are game-changers.",
+        content: "Tracking all my applications in one dashboard is a lifesaver. No more spreadsheets or lost job links!",
         author: "Sofia",
-        role: "Property Manager",
+        role: "Data Analyst",
         image: "/images/person-three.jpg",
         rating: 5
     },
     {
-        content: "The document handling system is brilliant. Digital contracts and secure payments have simplified my rental processes.",
+        content: "The resume feedback feature improved my profile instantly. I started getting callbacks from top companies.",
         author: "Lucas",
-        role: "Property Owner",
+        role: "Product Manager",
         image: "/images/person-four.jpeg",
         rating: 5
     },
     {
-        content: "Market analytics and trend reports help me make data-driven decisions. Perfect tool for investment planning.",
+        content: "I love how quick and easy it is to apply. HireHack really feels like having a cheat code for job hunting.",
         author: "Isabella",
-        role: "Property Investor",
+        role: "UX Designer",
         image: "/images/person-five.jpeg",
         rating: 5
     },
     {
-        content: "Tenant screening and rental management features are exceptional. Reduced my vacancy rates significantly.",
+        content: "The automation freed up so much of my time. Instead of wasting hours applying, I focused on preparing for interviews.",
         author: "Oliver",
-        role: "Landlord",
+        role: "Graduate Student",
         image: "/images/person-six.jpg",
         rating: 5
     }
-]; 
+];

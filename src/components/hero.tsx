@@ -24,18 +24,18 @@ const Hero = () => {
                 <div className="flex flex-col items-start gap-10 py-8 w-full">
                     <div className="flex flex-col items-start gap-4">
                         <AnimationContainer animation="fadeUp" delay={0.2}>
-                            <SectionBadge title="Trusted by 10,000+ Users" />
+                            <SectionBadge title="Trusted by 10,000+ Job Seekers" />
                         </AnimationContainer>
 
                         <AnimationContainer animation="fadeUp" delay={0.4}>
                             <h1 className="text-5xl lg:text-6xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-r from-foreground to-neutral-500">
-                                Effortless Real Estate Trading
+                                Automate Job Applications & Ace Interviews
                             </h1>
                         </AnimationContainer>
 
                         <AnimationContainer animation="fadeUp" delay={0.6}>
                             <p className="text-sm md:text-base lg:text-lg text-muted-foreground">
-                                Simplify your property journey with our comprehensive platform. Buy, sell, or manage properties with ease using our innovative tools and expert guidance.
+                                HireHack is your cheat code for landing jobs faster. Apply to hundreds of jobs in a single click on LinkedIn, Indeed, and more — and get AI-powered assistance to prepare and succeed in interviews.
                             </p>
                         </AnimationContainer>
                     </div>
@@ -44,7 +44,7 @@ const Hero = () => {
                         <div className="w-full">
                             <Link href="/">
                                 <Button size="md" className="w-full md:w-auto">
-                                    Start free trial
+                                    Start Applying
                                 </Button>
                             </Link>
                         </div>
@@ -53,7 +53,7 @@ const Hero = () => {
                     <AnimationContainer animation="fadeUp" delay={1}>
                         <div className="flex flex-col items-start gap-4 py-4">
                             <p className="text-sm md:text-base text-muted-foreground">
-                                Trusted by Industry Leaders
+                                Trusted by Candidates Worldwide
                             </p>
                             <div className="w-full relative max-w-[calc(100vw-2rem)] lg:max-w-lg">
                                 <Marquee className="[--duration:40s] select-none [--gap:2rem]">
@@ -77,7 +77,7 @@ const Hero = () => {
                             <div className="lg:absolute lg:inset-0">
                                 <Image
                                     src="/images/dashboard.png"
-                                    alt="hero"
+                                    alt="HireHack dashboard"
                                     sizes="1000px"
                                     width={1024}
                                     height={1024}
@@ -91,7 +91,7 @@ const Hero = () => {
             <AnimationContainer animation="scaleUp" delay={1.2} className="absolute w-2/3 h-auto -top-[8%] left-1/4 -z-10">
                 <Image
                     src="/images/hero-gradient.svg"
-                    alt="hero"
+                    alt="hero background"
                     width={1024}
                     height={1024}
                     className="object-cover w-full h-auto"
@@ -101,4 +101,4 @@ const Hero = () => {
     )
 };
 
-export default Hero
+export default Hero;

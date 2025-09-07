@@ -14,13 +14,16 @@ const Features = () => {
 
                 <AnimationContainer animation="fadeUp" delay={0.3}>
                     <h2 className="text-2xl md:text-4xl lg:text-5xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                        Manage properties smarter
+                        Automate applications.
+                        <br />
+                        Master your interviews.
                     </h2>
                 </AnimationContainer>
 
                 <AnimationContainer animation="fadeUp" delay={0.4}>
                     <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-2xl mx-auto">
-                        Experience the future of real estate with our all-in-one platform for seamless property management.
+                        HireHack combines one-click job applications with AI-powered interview prep —
+                        giving you the ultimate edge in today’s competitive job market.
                     </p>
                 </AnimationContainer>
             </div>
