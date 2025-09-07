@@ -5,27 +5,27 @@ export type FAQItem = {
 
 export const FAQS: FAQItem[] = [
     {
-        question: "How does the property listing process work?",
-        answer: "Our platform makes listing properties simple. Upload property details, photos, and documents through our intuitive interface. Your listings are instantly visible to potential buyers or renters, with AI-powered optimization for maximum visibility."
+        question: "How does HireHack work?",
+        answer: "HireHack is a Chrome extension that automates your job hunt by applying to jobs on platforms like LinkedIn and Indeed with a single click. After installing the extension, set up your profile, upload resumes, and let the system handle repetitive applications while you focus on preparing for interviews."
     },
     {
-        question: "What tools are available for property management?",
-        answer: "We offer a comprehensive suite of tools including automated rent collection, maintenance request tracking, tenant screening, financial reporting, and document management. All these features are integrated seamlessly into one dashboard."
+        question: "Which platforms does HireHack support?",
+        answer: "Currently, HireHack works with major job boards including LinkedIn, Indeed, and Glassdoor. We're continuously expanding support for more platforms to maximize your reach."
     },
     {
-        question: "How secure are the transactions on your platform?",
-        answer: "We implement bank-level security measures for all transactions. Our platform uses advanced encryption, secure payment gateways, and multi-factor authentication to ensure your financial transactions are completely safe."
+        question: "Is my data safe on HireHack?",
+        answer: "Yes. We use enterprise-grade encryption and secure authentication to protect your personal information, resumes, and application history. Your data is private and never shared with third parties without your consent."
     },
     {
-        question: "Can I manage multiple properties efficiently?",
-        answer: "Absolutely! Our platform is designed to handle multiple properties with ease. You can organize properties by portfolios, track performance metrics across all properties, and manage multiple tenant relationships from a single dashboard."
+        question: "Can I track my job applications?",
+        answer: "Absolutely! HireHack gives you a personalized dashboard to track applications, view statuses, and monitor interview progress — all in one place."
     },
     {
-        question: "What kind of support do you provide?",
-        answer: "We offer 24/7 customer support through multiple channels including live chat, email, and phone. Our dedicated support team is trained to help with technical issues, platform navigation, and best practices for property management."
+        question: "Does HireHack help with interviews?",
+        answer: "Yes! HireHack includes an AI-powered interview assistant that provides tailored practice questions, real-time coaching, and feedback to help you ace your interviews with confidence."
     },
     {
-        question: "Is there a mobile app available?",
-        answer: "Yes, we have both iOS and Android apps available. The mobile apps offer all core functionalities of the web platform, allowing you to manage your properties on the go with real-time notifications and updates."
+        question: "How do I get started?",
+        answer: "Simply download the HireHack Chrome extension from the Chrome Web Store, sign up for free, and start automating applications instantly."
     }
 ];
